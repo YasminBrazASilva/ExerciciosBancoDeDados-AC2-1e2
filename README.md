@@ -27,9 +27,9 @@ A criação da tabela pode ser encontrada em: [Exercicio1_1.sql](https://github.
 
 * Crie um banco de dados para armazenar dados de Animais e Espécies. Um animal tem seu nome, data_nasc e peso. Uma espécie tem um nome e uma descrição. Insira pelo menos 8 animais e 3 espécies.
 
-A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_1.sql)
+   A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_1.sql)
 
-O DER do exercício é: ![ExercicioMer2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_1.png)
+   O DER do exercício é: ![ExercicioMer2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_1.png)
 
 * Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone. Insira pelo menos 8 Produtos e 3 Marcas.
 
