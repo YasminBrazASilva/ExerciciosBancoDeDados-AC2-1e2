@@ -25,7 +25,7 @@ A criação da tabela pode ser encontrada em: [Exercicio1_1.sql](https://github.
 
 ### ETAPA 2:
 
-* Crie um banco de dados para armazenar dados de Animais e Espécies. Um animal tem seu nome, data_nasc e peso. Uma espécie tem um nome e uma descrição. Insira pelo menos 8 animais e 3 espécies.
+1) Crie um banco de dados para armazenar dados de Animais e Espécies. Um animal tem seu nome, data_nasc e peso. Uma espécie tem um nome e uma descrição. Insira pelo menos 8 animais e 3 espécies.
 
    A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_1.sql)
 
