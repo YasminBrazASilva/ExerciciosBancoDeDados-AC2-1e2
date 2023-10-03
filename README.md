@@ -30,16 +30,21 @@ A criação da tabela pode ser encontrada em: [Exercicio1_1.sql](https://github.
    A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_1.sql)
 
    O DER do exercício é: ![ExercicioMer2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_1.png)
-
-2) Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone. Insira pelo menos 8 Produtos e 3 Marcas.
-
-   A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_2.sql)
-
-   O DER do exercício é: ![ExercicioMer2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_2.png)
    
-3) Crie um banco de dados para registrar dados de Filmes e Categorias. Um filme tem seu título, sinopse, estudio e categoria. Uma categoria deve ter nome e público alvo. Insira pelo menos 8 Filmes e 3 Categorias.
+
+3) Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone. Insira pelo menos 8 Produtos e 3 Marcas.
+
+   A consulta para a criação do banco de dados pode ser encontrada em:
+   [Exercicio2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_2.sql)
+
+   O DER do exercício é:
+    ![ExercicioMer2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_2.png)
+   
+   
+5) Crie um banco de dados para registrar dados de Filmes e Categorias. Um filme tem seu título, sinopse, estudio e categoria. Uma categoria deve ter nome e público alvo. Insira pelo menos 8 Filmes e 3 Categorias.
 
    A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_3](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_3.sql)
 
-   O DER do exercício é: ![ExercicioMer2_3](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_3.png)
+   O DER do exercício é:
+   ![ExercicioMer2_3](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_3.png)
 
