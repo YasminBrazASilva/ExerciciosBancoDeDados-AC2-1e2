@@ -31,14 +31,14 @@ A criação da tabela pode ser encontrada em: [Exercicio1_1.sql](https://github.
    * A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_1.sql).<br>
           ![ExercicioTela2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioTela2_1.png)<br>
    * O DER do exercício é: <br>
-     ![ExercicioMer2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_1.png).<br>
+     ![ExercicioMer2_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_1.png).<br><br>
    
 
 2) Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone. Insira pelo menos 8 Produtos e 3 Marcas..<br>
    * A consulta para a criação do banco de dados pode ser encontrada em: [Exercicio2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio2_2.sql).<br>
              ![ExercicioTela2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioTela2_2.png)<br>
    * O DER do exercício é: .<br>
-    ![ExercicioMer2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_2.png).<br>
+    ![ExercicioMer2_2](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioMer2_2.png).<br><br>
    
    
 3) Crie um banco de dados para registrar dados de Filmes e Categorias. Um filme tem seu título, sinopse, estudio e categoria. Uma categoria deve ter nome e público alvo. Insira pelo menos 8 Filmes e 3 Categorias..<br>
