@@ -24,6 +24,7 @@ A criação da tabela pode ser encontrada em: [Exercicio1_1.sql](https://github.
 * (Desafio) Selecione todos os capricornianos: [Exercicio1_13.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio1_13.sql)
 * (Desafio) Selecione todos os animais com nome formado por mais de uma palavra: [Exercicio1_14.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/Exercicio1_14.sql)
 
+---
 
 ### ETAPA 2:
 
